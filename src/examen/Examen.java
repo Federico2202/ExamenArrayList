@@ -7,6 +7,7 @@ public class Examen {
 
     public static void main(String[] args) {
 
+        //Aqui inicia todo;
                 
         Scanner leer = new Scanner(System.in);
 
@@ -14,7 +15,7 @@ public class Examen {
       ArrayList<Double>Velocidad = new ArrayList<Double>();
       ArrayList<Double>Tiempo = new ArrayList<Double>();
       
-      boolean Continue=true;
+      boolean Continue=true; 
       int Decision=1;
       String Nombres;
       double velocidad=0, tiempo=0;
